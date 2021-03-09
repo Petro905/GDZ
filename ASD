@@ -24,7 +24,7 @@
         <p>ГДЗ ВІД ПЕТРИКА</p>
         </div>
         <div class="nuz">
-        <a href="tfrewfw/Untitled-6.html" style="text-decoration: none;">ДЗ НА П'ЯТНИЦЮ (5.02.2021)</a></br>
+        <a href="tfrewfw/Untitled-6.html" style="text-decoration: none;">ДЗ НА П'ЯТНИЦЮ (12.02.2021)</a></br>
         <a href="tfrewfw/Untitled-5.html" style="text-decoration: none;">ДЗ НА ЧЕТВЕР (4.02.2021)</a></br>
         <a href="tfrewfw/Untitled-4.html" style="text-decoration: none;">ДЗ НА СЕРЕДУ (10.02.2021)</a></br>
         <a href="tfrewfw/Untitled-3.html" style="text-decoration: none;">ДЗ НА ВІВТОРОК (9.03.2021)</a></br>
